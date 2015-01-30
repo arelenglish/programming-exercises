@@ -1,3 +1,5 @@
+#Great Solution! 
+
 class Node
   attr_accessor :left, :right, :value
 
