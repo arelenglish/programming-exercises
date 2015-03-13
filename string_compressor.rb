@@ -1,4 +1,5 @@
-str = "AAAABBBBCCAAA"
+# A method to compress a string of alphabetical characters. 
+# Eg: AAAABBBGGGEEE would become A4B3G3E3
 
 def compress_string(str)
   compressed_string = ""
