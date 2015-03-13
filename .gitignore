@@ -9,6 +9,9 @@
 /test/version_tmp/
 /tmp/
 
+## OSX 
+.DS_Store
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history

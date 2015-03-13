@@ -1,2 +1,3 @@
-# find-if-balanced-binary-tree
-A simple program to check if a binary tree is balanced, assuming that a balanced tree can have a  dangling node
+#Programming Exercises
+
+This is a repository of solutions to programming exercises. 

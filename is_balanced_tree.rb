@@ -1,3 +1,6 @@
+# A simple program to check if a binary tree is balanced, 
+# assuming that a balanced tree can have a  dangling node
+
 class Node
   attr_accessor :left, :right, :value
 
