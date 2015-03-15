@@ -13,11 +13,11 @@ exercises are solved multiple times in different languages.
 ######Ruby
 [Find if a binary tree is balanced](is_balanced_tree.rb)
 
-[A very simple doubly-linked list class implementd in ruby](linked_list.rb)
+[A very simple doubly-linked list class](linked_list.rb)
 
 [Compress a string of alphabetical characters](string_compressor.rb)
 
-[A Binary Tree and Node Class with the ability to build your tree](binary_tree.rb)
+[A Binary Tree and Node Class that automatically sorts new nods into the correct position in the tree](binary_tree.rb)
 
 ######C
 
