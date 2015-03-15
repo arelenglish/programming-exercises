@@ -15,3 +15,7 @@ This is a repository of solutions to programming exercises in multiple languages
 [Compress a string of alphabetical characters](string_compressor.rb)
 
 [A Binary Tree and Node Class with the ability to build your tree](binary_tree.rb)
+
+######C
+
+[A doubly linked list](double_linked_list.c)
