@@ -1,11 +1,14 @@
 #Programming Exercises
 
-This is a repository of solutions to programming exercises in multiple languages.
+This is a repository of solutions to programming exercises in multiple languages. Some of the 
+exercises are solved multiple times in different languages. 
 
 ######Javascript
 [Find if a string has all unique characters](has-all-uniq-chars.js) 
 
 [given two strings, find if they are permutations of eachother](permutation-finder.js)
+
+[Compress a string of alphabetical characters](string_compressor.js)
 
 ######Ruby
 [Find if a binary tree is balanced](is_balanced_tree.rb)

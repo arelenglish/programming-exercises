@@ -8,8 +8,8 @@ def compress_string(str)
     if letter == str[index+1] 
       count += 1
     else 
-      result << letter 
-      result << count.to_s
+      compressed_string << letter 
+      compressed_string << count.to_s
       count = 1
     end
   end
