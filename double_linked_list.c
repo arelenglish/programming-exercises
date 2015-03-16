@@ -84,15 +84,19 @@ typedef struct
 } item;
 
 int main()
+
 {
   list items;
   item * a = (item *) malloc(sizeof(item));
   item * b = (item *) malloc(sizeof(item));
   item * c = (item *) malloc(sizeof(item));
 
-  a->value = 1;
-  b->value = 2;
-  c->value = 3;
+  printf("What is the value of the first node?\n");
+  scanf("%i", &a->value);
+  printf("What is the value of the second node?\n");
+  scanf("%i", &b->value);
+  printf("What is the value of the third node?\n");
+  scanf("%i", &c->value);
 
   list_init(&items);
   list_push_back(&items, &a->header);
