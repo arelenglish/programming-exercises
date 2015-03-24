@@ -10,6 +10,8 @@ exercises are solved multiple times in different languages.
 
 [Compress a string of alphabetical characters](javascript/string_compressor.js)
 
+[Percent Ecnode a String, both stripping white space and keeping it](javascript/percent-encoding-string.js)
+
 ######Ruby
 [Find if a binary tree is balanced](ruby/is_balanced_tree.rb)
 
