@@ -34,10 +34,20 @@ def build_rolodex(address_file):
 
     for address in addresses:
         address_object = pick_format(address)
-        sorted_address_object = OrderedDict(sorted(address_object.items()))
+        sorted_address_object = order_this(address_object)
         organized_addresses['entries'].append(sorted_address_object)
-        organized_addresses['entries'].sort(key=lambda e: (e['lastname'], e['firstname']))
-        sorted_addresses = OrderedDict(sorted(organized_addresses.items()))
+
+    return sort_addresses(organized_addresses)
+
+
+def order_this(address):
+    ordered = OrderedDict(sorted(address.items()))
+    return ordered
+
+
+def sort_addresses(organized_addresses):
+    organized_addresses['entries'].sort(key=lambda e: (e['lastname'], e['firstname']))
+    sorted_addresses = order_this(organized_addresses)
     return sorted_addresses
 
 
