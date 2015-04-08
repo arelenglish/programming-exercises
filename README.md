@@ -26,4 +26,4 @@ exercises are solved multiple times in different languages.
 [A doubly linked list](c/double_linked_list.c)
 
 ######Python
-[Format a text file of addresses into organized JSON output](python/rolodex)
+[Format a text file of addresses into organized JSON output](https://github.com/arelenglish/rolodex)
