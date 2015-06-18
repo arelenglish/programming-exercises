@@ -1,6 +1,6 @@
 // Checks if a string has only uniq characters. So "Arel" would 
-// return true, but "sailboat" would return false because it as 
-// two "a" characters. 
+// return true, but "sailboat" would return false because it 
+// has two "a" characters. 
 
 function hasAllUniqChars(string){
   for(var i = 0; i<string.length; i++){
