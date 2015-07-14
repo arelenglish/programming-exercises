@@ -26,9 +26,7 @@ exercises are solved multiple times in different languages.
 [A doubly linked list](c/double_linked_list.c)
 
 ######Go
-I didn't write the go code, it's from [https://golang.org/pkg/container/list/](https://golang.org/pkg/container/list/) 
-I was going to write a doubly linked list, but go already implements it so well. I'll put some real go programming 
-exercises up here after I do them. 
+[Anagram Checker. Asks for two strings, and checks if they are anagrams of each other.](https://github.com/arelenglish/go-anagram-checker)
 
 [A doubly linked list](go/double_linked_list.go)
 
