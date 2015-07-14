@@ -1,3 +1,6 @@
+// I didn't write this go code, it's from [https://golang.org/pkg/container/list/](https://golang.org/pkg/container/list/) 
+// I was going to write a doubly linked list, but go already implements it so well.
+
 package main
 
 import (
