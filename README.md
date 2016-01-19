@@ -1,10 +1,10 @@
 #Programming Exercises
 
-This is a repository of solutions to programming exercises in multiple languages. Some of the 
-exercises are solved multiple times in different languages. 
+This is a repository of solutions to programming exercises in multiple languages. Some of the
+exercises are solved multiple times in different languages.
 
 ######Javascript
-[Find if a string has all unique characters](javascript/has-all-uniq-chars.js) 
+[Find if a string has all unique characters](javascript/has-all-uniq-chars.js)
 
 [given two strings, find if they are permutations of eachother](javascript/permutation-finder.js)
 
@@ -21,6 +21,8 @@ exercises are solved multiple times in different languages.
 
 [A Binary Tree and Node Class that automatically sorts new nods into the correct position in the tree](ruby/binary_tree.rb)
 
+[Rotate a matrix left or right](ruby/rotate_matrix.rb)
+
 ######C
 
 [A doubly linked list](c/double_linked_list.c)
@@ -32,4 +34,3 @@ exercises are solved multiple times in different languages.
 
 ######Python
 [Format a text file of addresses into organized JSON output](https://github.com/arelenglish/rolodex)
-
