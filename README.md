@@ -25,5 +25,11 @@ exercises are solved multiple times in different languages.
 
 [A doubly linked list](c/double_linked_list.c)
 
+######Go
+[Anagram Checker. Asks for two strings, and checks if they are anagrams of each other.](https://github.com/arelenglish/go-anagram-checker)
+
+[A doubly linked list](go/double_linked_list.go)
+
 ######Python
 [Format a text file of addresses into organized JSON output](https://github.com/arelenglish/rolodex)
+
