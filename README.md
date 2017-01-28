@@ -23,6 +23,8 @@ exercises are solved multiple times in different languages.
 
 [Rotate a matrix left or right](ruby/rotate_matrix.rb)
 
+[Find unique occurrences of four letters within a large set of words and the words those occurrences are from, then print them to seperate files](ruby/sort_words)
+
 ######C
 
 [A doubly linked list](c/double_linked_list.c)
