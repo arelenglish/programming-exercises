@@ -1,9 +1,9 @@
-#Programming Exercises
+# Programming Exercises
 
 This is a repository of solutions to programming exercises in multiple languages. Some of the
 exercises are solved multiple times in different languages.
 
-######Javascript
+###### Javascript
 [Find if a string has all unique characters](javascript/has-all-uniq-chars.js)
 
 [given two strings, find if they are permutations of eachother](javascript/permutation-finder.js)
@@ -12,7 +12,7 @@ exercises are solved multiple times in different languages.
 
 [Percent Ecnode a String, both stripping white space and keeping it](javascript/percent-encoding-string.js)
 
-######Ruby
+###### Ruby
 [Find if a binary tree is balanced](ruby/is_balanced_tree.rb)
 
 [A very simple doubly-linked list class](ruby/linked_list.rb)
@@ -25,14 +25,14 @@ exercises are solved multiple times in different languages.
 
 [Find unique occurrences of four letters within a large set of words and the words those occurrences are from, then print them to seperate files](ruby/sort_words)
 
-######C
+###### C
 
 [A doubly linked list](c/double_linked_list.c)
 
-######Go
+###### Go
 [Anagram Checker. Asks for two strings, and checks if they are anagrams of each other.](https://github.com/arelenglish/go-anagram-checker)
 
 [A doubly linked list](go/double_linked_list.go)
 
-######Python
+###### Python
 [Format a text file of addresses into organized JSON output](https://github.com/arelenglish/rolodex)
